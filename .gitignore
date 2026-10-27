@@ -1,0 +1,15 @@
+.venv/
+.data/
+.cache/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+*.pkl
+*.npy
+*.npz
+*.pt
+*.log
+results/per_user_*.csv
+results/*.png
